@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengfei.website/"/>
-  <updated>2017-01-13T07:18:55.978Z</updated>
+  <updated>2017-01-13T07:38:52.377Z</updated>
   <id>http://mengfei.website/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://mengfei.website/2017/01/13/2017%E5%B9%B4%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%9B%AE%E6%A0%87/"/>
     <id>http://mengfei.website/2017/01/13/2017年的个人目标/</id>
     <published>2017-01-13T07:09:39.421Z</published>
-    <updated>2017-01-13T07:18:55.978Z</updated>
+    <updated>2017-01-13T07:38:52.377Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="职业"><a href="#职业" class="headerlink" title="职业"></a>职业</h2><p>数据分析师</p>
+    <content type="html"><![CDATA[<h2 id="职业"><a href="#职业" class="headerlink" title="职业"></a>职业</h2><p><em>数据分析师</em></p>
 <h2 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h2><h4 id="编程语言"><a href="#编程语言" class="headerlink" title="编程语言"></a>编程语言</h4><ul>
 <li><a href="&quot;http://www.runoob.com/python3/python3-tutorial.html&quot;">Python</a></li>
 <li><a href="&quot;https://www.rstudio.com/&quot;">R</a></li>
@@ -49,20 +49,17 @@
 <li><a href="&quot;http://www.runoob.com/linux/linux-tutorial.html&quot;">Linux</a></li>
 </ul>
 <h2 id="项目"><a href="#项目" class="headerlink" title="项目"></a>项目</h2><blockquote>
-<p>维护<a href="&quot;http://www.mengfei.website/&quot;">“mengfei”</a>个人博客，<br>创建一个爬虫项目，<br>搭建一个<a href="&quot;http://www.flymengfei.com/&quot;">“flymengfei”</a>网站</p>
+<p>维护<a href="&quot;http://www.mengfei.website/&quot;">“mengfei”</a>个人博客<br>创建一个爬虫项目<br>搭建一个<a href="&quot;http://www.flymengfei.com/&quot;">“flymengfei”</a>网站</p>
 </blockquote>
-<h2 id="兴趣"><a href="#兴趣" class="headerlink" title="兴趣"></a>兴趣</h2><ul>
-<li>出国旅游一次</li>
-<li>买一个台式主机</li>
-<li>年底存2万</li>
-<li>把手上的书看完</li>
-</ul>
+<h2 id="兴趣"><a href="#兴趣" class="headerlink" title="兴趣"></a>兴趣</h2><blockquote>
+<p>出国旅游一次<br>买一个台式主机<br>年底存<strong>2</strong>万<br>把手头上的书看完</p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;职业&quot;&gt;&lt;a href=&quot;#职业&quot; class=&quot;headerlink&quot; title=&quot;职业&quot;&gt;&lt;/a&gt;职业&lt;/h2&gt;&lt;p&gt;数据分析师&lt;/p&gt;
-&lt;h2 id=&quot;技能&quot;&gt;&lt;a href=&quot;#技能&quot; class=&quot;headerlink&quot; title=&quot;技能&quot;&gt;&lt;/a&gt;
+      &lt;h2 id=&quot;职业&quot;&gt;&lt;a href=&quot;#职业&quot; class=&quot;headerlink&quot; title=&quot;职业&quot;&gt;&lt;/a&gt;职业&lt;/h2&gt;&lt;p&gt;&lt;em&gt;数据分析师&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;技能&quot;&gt;&lt;a href=&quot;#技能&quot; class=&quot;headerlink&quot; title=
     
     </summary>
     
