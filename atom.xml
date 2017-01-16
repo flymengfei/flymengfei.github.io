@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengfei.website/"/>
-  <updated>2017-01-13T07:38:52.377Z</updated>
+  <updated>2017-01-16T07:23:30.522Z</updated>
   <id>http://mengfei.website/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>pip安装python模块报错</title>
+    <link href="http://mengfei.website/2017/01/16/pip%E5%AE%89%E8%A3%85python%E6%A8%A1%E5%9D%97%E6%8A%A5%E9%94%99/"/>
+    <id>http://mengfei.website/2017/01/16/pip安装python模块报错/</id>
+    <published>2017-01-16T07:23:30.341Z</published>
+    <updated>2017-01-16T07:23:30.522Z</updated>
+    
+    <content type="html"><![CDATA[<p>我是先装了Anaconda2.7,然后又单独安装了python3.6，导致在python3.6下无法用pip安装模块。解决方法：</p>
+<ul>
+<li>1.首先找到python3.6的安装目录C:\Program Files\Python36，右键单击python36文件夹</li>
+<li>2.按下面截图操作：<br><img src="http://i.imgur.com/BsyfWLX.png" alt=""><br><img src="http://i.imgur.com/t3e8AX4.png" alt=""><br>最后在Users的权限-&gt;完全控制-&gt;允许：打勾即可</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我是先装了Anaconda2.7,然后又单独安装了python3.6，导致在python3.6下无法用pip安装模块。解决方法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.首先找到python3.6的安装目录C:\Program Files\Python36，右键单击python36文
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>2017年的个人目标</title>
