@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengfei.website/"/>
-  <updated>2017-01-16T07:23:30.522Z</updated>
+  <updated>2017-01-16T08:01:29.113Z</updated>
   <id>http://mengfei.website/</id>
   
   <author>
@@ -16,24 +16,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>pip安装python模块报错</title>
+    <title>学习计划的第一天</title>
     <link href="http://mengfei.website/2017/01/16/pip%E5%AE%89%E8%A3%85python%E6%A8%A1%E5%9D%97%E6%8A%A5%E9%94%99/"/>
     <id>http://mengfei.website/2017/01/16/pip安装python模块报错/</id>
     <published>2017-01-16T07:23:30.341Z</published>
-    <updated>2017-01-16T07:23:30.522Z</updated>
+    <updated>2017-01-16T08:01:29.113Z</updated>
     
-    <content type="html"><![CDATA[<p>我是先装了Anaconda2.7,然后又单独安装了python3.6，导致在python3.6下无法用pip安装模块。解决方法：</p>
+    <content type="html"><![CDATA[<h2 id="pip安装python模块报错"><a href="#pip安装python模块报错" class="headerlink" title="pip安装python模块报错"></a>pip安装python模块报错</h2><p>我是先装了Anaconda2.7,然后又单独安装了python3.6，导致在python3.6下无法用pip安装模块。解决方法：</p>
 <ul>
 <li>1.首先找到python3.6的安装目录C:\Program Files\Python36，右键单击python36文件夹</li>
 <li>2.按下面截图操作：<br><img src="http://i.imgur.com/BsyfWLX.png" alt=""><br><img src="http://i.imgur.com/t3e8AX4.png" alt=""><br>最后在Users的权限-&gt;完全控制-&gt;允许：打勾即可</li>
+</ul>
+<h2 id="pycharm汉化版"><a href="#pycharm汉化版" class="headerlink" title="pycharm汉化版"></a>pycharm汉化版</h2><ul>
+<li>1.下载<a href="&#39;https://github.com/adminlinzi/mygitworks/blob/master/resources_zhCN.jar&#39;">resources_zhCN.jar</a></li>
+<li>2.将文件放进安装目录的/lib/里，我的是C:\Program Files (x86)\JetBrains\PyCharm 2016.3.1\lib</li>
 </ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;我是先装了Anaconda2.7,然后又单独安装了python3.6，导致在python3.6下无法用pip安装模块。解决方法：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1.首先找到python3.6的安装目录C:\Program Files\Python36，右键单击python36文
+      &lt;h2 id=&quot;pip安装python模块报错&quot;&gt;&lt;a href=&quot;#pip安装python模块报错&quot; class=&quot;headerlink&quot; title=&quot;pip安装python模块报错&quot;&gt;&lt;/a&gt;pip安装python模块报错&lt;/h2&gt;&lt;p&gt;我是先装了Anaconda2.7,然
     
     </summary>
     
