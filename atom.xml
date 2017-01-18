@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengfei.website/"/>
-  <updated>2017-01-16T08:01:29.113Z</updated>
+  <updated>2017-01-18T09:42:34.579Z</updated>
   <id>http://mengfei.website/</id>
   
   <author>
@@ -14,6 +14,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>dashboard方案</title>
+    <link href="http://mengfei.website/2017/01/18/dashboard%E6%96%B9%E6%A1%88/"/>
+    <id>http://mengfei.website/2017/01/18/dashboard方案/</id>
+    <published>2017-01-18T09:42:34.420Z</published>
+    <updated>2017-01-18T09:42:34.579Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="数据来源"><a href="#数据来源" class="headerlink" title="数据来源"></a>数据来源</h2><p>线下统计数据，最好用爬虫抓取所需数据</p>
+<h2 id="架构设计"><a href="#架构设计" class="headerlink" title="架构设计"></a>架构设计</h2><ul>
+<li>所有数据整理和格式问题在后台处理，尽量在mysql数据库中处理</li>
+<li>dashboard所有图表都是交互形式，可以筛选、下载，并能导出原始数据</li>
+<li>实现一个能够实时响应的前台展现，随后台数据更新而更新</li>
+</ul>
+<h2 id="后台搭建"><a href="#后台搭建" class="headerlink" title="后台搭建"></a>后台搭建</h2><p>基于阿里云服务器的mysql数据库，采用navicat连接，域名暂用已备案的个人域名</p>
+<h2 id="Django"><a href="#Django" class="headerlink" title="Django"></a>Django</h2><p>采用Django搭建web框架，建立数据库与前端的通讯</p>
+<h2 id="前台展现"><a href="#前台展现" class="headerlink" title="前台展现"></a>前台展现</h2><p>利用D3生成交互式图表，并生成各种dashboard插件</p>
+<h2 id="具体实施"><a href="#具体实施" class="headerlink" title="具体实施"></a>具体实施</h2><h3 id="第1—3周（1-18-2-5）：对python和Javascript编程工具的掌握"><a href="#第1—3周（1-18-2-5）：对python和Javascript编程工具的掌握" class="headerlink" title="第1—3周（1.18-2.5）：对python和Javascript编程工具的掌握"></a>第1—3周（1.18-2.5）：对python和Javascript编程工具的掌握</h3><ol>
+<li>将手头上5本工具书籍看完，并且至少练习一遍</li>
+<li>每天至少学着做一个python项目（春节回家除外）</li>
+<li>每天至少看1个小时python教学视频</li>
+<li>每天写一个爬虫，几行代码也算<h3 id="第4—5周（2-6-2-19）：利用所学知识去制作dashboard"><a href="#第4—5周（2-6-2-19）：利用所学知识去制作dashboard" class="headerlink" title="第4—5周（2.6-2.19）：利用所学知识去制作dashboard"></a>第4—5周（2.6-2.19）：利用所学知识去制作dashboard</h3></li>
+<li>尝试着去做，发现问题，并且及时总结</li>
+<li>针对短板问题，进行针对性的学习</li>
+<li>至少做成一个H5静态页面<h3 id="第6—8周（2-20-3-12）：根据实际情况对方案进行修改"><a href="#第6—8周（2-20-3-12）：根据实际情况对方案进行修改" class="headerlink" title="第6—8周（2.20-3.12）：根据实际情况对方案进行修改"></a>第6—8周（2.20-3.12）：根据实际情况对方案进行修改</h3><blockquote>
+<p>针对自己的进度及工作需要作出调整</p>
+<h3 id="第9—10周（3-13-3-29）：网站的初步成型与完善"><a href="#第9—10周（3-13-3-29）：网站的初步成型与完善" class="headerlink" title="第9—10周（3.13-3.29）：网站的初步成型与完善"></a>第9—10周（3.13-3.29）：网站的初步成型与完善</h3><p>希望用3个月的时间让自己在新的一年完成一个网站平台的搭建</p>
+</blockquote>
+</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;数据来源&quot;&gt;&lt;a href=&quot;#数据来源&quot; class=&quot;headerlink&quot; title=&quot;数据来源&quot;&gt;&lt;/a&gt;数据来源&lt;/h2&gt;&lt;p&gt;线下统计数据，最好用爬虫抓取所需数据&lt;/p&gt;
+&lt;h2 id=&quot;架构设计&quot;&gt;&lt;a href=&quot;#架构设计&quot; class=&quot;he
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>学习计划的第一天</title>
