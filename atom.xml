@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengfei.website/"/>
-  <updated>2017-01-18T09:50:30.539Z</updated>
+  <updated>2017-01-19T10:27:18.592Z</updated>
   <id>http://mengfei.website/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习计划的第二天</title>
+    <link href="http://mengfei.website/2017/01/19/%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A01/"/>
+    <id>http://mengfei.website/2017/01/19/爬虫学习1/</id>
+    <published>2017-01-19T01:39:48.425Z</published>
+    <updated>2017-01-19T10:27:18.592Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="爬虫学习1"><a href="#爬虫学习1" class="headerlink" title="爬虫学习1"></a>爬虫学习1</h2><h3 id="网络爬虫"><a href="#网络爬虫" class="headerlink" title="网络爬虫"></a>网络爬虫</h3><ul>
+<li>抓取HTML数据</li>
+<li>解析抓取数据</li>
+<li>存储数据</li>
+</ul>
+<h3 id="urllib-request"><a href="#urllib-request" class="headerlink" title="urllib.request"></a>urllib.request</h3><pre><code>from urllib.request import urlopen
+html = urlopen(url)
+print(html.read())
+</code></pre><h3 id="BeautifulSoup"><a href="#BeautifulSoup" class="headerlink" title="BeautifulSoup"></a>BeautifulSoup</h3><pre><code>from urllib.request import urlopen
+from bs4 import BeautifulSoup
+html = urlopen(url)
+bs0bj = BeautifulSoup(html.read())
+print(bs0bj.h1)
+
+#输出结果：
+&lt;h1 class=&quot;logo-name&quot; style=&quot;font-size:40px;letter-spacing:0px;&quot;&gt;运营系统&lt;/h1&gt;
+</code></pre><h3 id="代码运行错误"><a href="#代码运行错误" class="headerlink" title="代码运行错误"></a>代码运行错误</h3><ul>
+<li>网页在服务器上不存在</li>
+<li>服务器不存在</li>
+</ul>
+<h3 id="HTML解析"><a href="#HTML解析" class="headerlink" title="HTML解析"></a>HTML解析</h3><p>页面解析失败</p>
+<h2 id="网站搭建学习"><a href="#网站搭建学习" class="headerlink" title="网站搭建学习"></a>网站搭建学习</h2><ol>
+<li>服务器：独享虚拟主机普惠版（标准）</li>
+<li>数据库：mysql 5.1.73（在云虚拟上）</li>
+<li>连接工具：Filezilla（端口21）</li>
+<li>域名：<a href="http://flymengfei.com" target="_blank" rel="external">flymengfei.com</a></li>
+</ol>
+<p><strong>注意事项</strong></p>
+<blockquote>
+<p>htdocs:站点根目录；<br>Navicat先把设计好的数据格式导出到一个Excel表中，然后按照格式去填充，最后把这些填充完的数据再通过Navicat导入到MySQL数据库中；<br>通过phpMyAdmin管理MySQL失败。</p>
+</blockquote>
+<p>对用Django+D3搭建一个可视化数据平台感到迷惘，觉得好难。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;爬虫学习1&quot;&gt;&lt;a href=&quot;#爬虫学习1&quot; class=&quot;headerlink&quot; title=&quot;爬虫学习1&quot;&gt;&lt;/a&gt;爬虫学习1&lt;/h2&gt;&lt;h3 id=&quot;网络爬虫&quot;&gt;&lt;a href=&quot;#网络爬虫&quot; class=&quot;headerlink&quot; title=&quot;网络爬虫&quot;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>dashboard方案</title>
