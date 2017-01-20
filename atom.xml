@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengfei.website/"/>
-  <updated>2017-01-19T10:27:18.592Z</updated>
+  <updated>2017-01-20T09:12:16.670Z</updated>
   <id>http://mengfei.website/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python学习</title>
+    <link href="http://mengfei.website/2017/01/20/python%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://mengfei.website/2017/01/20/python学习/</id>
+    <published>2017-01-20T09:12:16.488Z</published>
+    <updated>2017-01-20T09:12:16.670Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="创建Django项目"><a href="#创建Django项目" class="headerlink" title="创建Django项目"></a>创建Django项目</h2><p>在Pycharm上点击文件-&gt;新建项目-&gt;Django-&gt;命名：superlists。</p>
+<ul>
+<li><strong>superlists/superlists</strong>：保存应用于整个项目的文件</li>
+<li><strong>settings.by</strong>：存储网站的全局配置信息</li>
+<li><strong>manage.py</strong>： 运行开发服务器</li>
+</ul>
+<h2 id="安装jupyter"><a href="#安装jupyter" class="headerlink" title="安装jupyter"></a>安装jupyter</h2><pre><code>pip3 install ipython notebook
+ipython3 kernelspec install-self
+ipython3.exe notebook
+</code></pre><p>后续开始为期3周的爬虫项目学习</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;创建Django项目&quot;&gt;&lt;a href=&quot;#创建Django项目&quot; class=&quot;headerlink&quot; title=&quot;创建Django项目&quot;&gt;&lt;/a&gt;创建Django项目&lt;/h2&gt;&lt;p&gt;在Pycharm上点击文件-&amp;gt;新建项目-&amp;gt;Django-&amp;gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>学习计划的第二天</title>
