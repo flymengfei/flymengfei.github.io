@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengfei.website/"/>
-  <updated>2017-01-20T09:12:16.670Z</updated>
+  <updated>2017-01-21T10:33:10.893Z</updated>
   <id>http://mengfei.website/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Win10系统安装</title>
+    <link href="http://mengfei.website/2017/01/21/Win10%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85/"/>
+    <id>http://mengfei.website/2017/01/21/Win10系统安装/</id>
+    <published>2017-01-21T10:21:11.330Z</published>
+    <updated>2017-01-21T10:33:10.893Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="软件安装"><a href="#软件安装" class="headerlink" title="软件安装"></a>软件安装</h2><p>在<a href="&quot;http://msdn.itellyou.cn/&quot;">itellyou</a>上下载<strong>Win10 Multiple Editions</strong>（一个镜像里包含了各版本的安装文件）</p>
+<h2 id="Win10产品密匙"><a href="#Win10产品密匙" class="headerlink" title="Win10产品密匙"></a>Win10产品密匙</h2><ul>
+<li>专业版：W269N-WFGWX-YVC9B-4J6C9-T83GX</li>
+<li>企业版：NPPR9-FWDCX-D2C8J-H872K-2YT43</li>
+<li>家庭版：TX9XD-98N7V-6WMQ6-BX7FG-H8Q99</li>
+<li>教育版：NW6C2-QMPVW-D7KKK-3GKT6-VCFB2</li>
+<li>专业版N：MH37W-N47XK-V7XM9-C7227-GCQG9</li>
+<li>企业版N：DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4</li>
+<li>教育版N：2WH4N-8QGBV-H22JP-CT43Q-MDWWJ</li>
+<li>企业版LSTB：WNMTR-4C88C-JK8YV-HQ7T2-76DF9</li>
+<li>企业版LSTB N：2F77B-TNFGY-69QQF-B8YKP-D69TJ<br>参考<a href="&quot;http://www.windowszj.com/news/13696.html&quot;">链接</a></li>
+</ul>
+<h2 id="VMware虚拟机安装Ubuntu简单教程"><a href="#VMware虚拟机安装Ubuntu简单教程" class="headerlink" title="VMware虚拟机安装Ubuntu简单教程"></a>VMware虚拟机安装Ubuntu简单教程</h2><p>参考<a href="&quot;http://www.jianshu.com/p/3379892948da&quot;">链接</a><br>关于许可证密匙网上有一堆，自己随便复制粘贴了一个，忘记了保存<br>在自己电脑上安装成功了，但由于4k屏，字体太小，以后再对linux系统进行学习</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;软件安装&quot;&gt;&lt;a href=&quot;#软件安装&quot; class=&quot;headerlink&quot; title=&quot;软件安装&quot;&gt;&lt;/a&gt;软件安装&lt;/h2&gt;&lt;p&gt;在&lt;a href=&quot;&amp;quot;http://msdn.itellyou.cn/&amp;quot;&quot;&gt;itellyou&lt;/a&gt;上下
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>python学习</title>
