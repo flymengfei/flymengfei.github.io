@@ -99,7 +99,7 @@
 在cmd中输入jupyter notebook --generate-config，找到配置文件ipython_notebook_config.py存在的位置
 在其配置文件ipython_notebook_config.py中找到下面两段，加粗部分为更改部分，注意去掉底下一行的注释#（我的在194-195行）  The">
 <meta property="og:image" content="http://i.imgur.com/n4vCvSW.png">
-<meta property="og:updated_time" content="2017-01-22T09:26:01.956Z">
+<meta property="og:updated_time" content="2017-01-22T10:47:47.084Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Jupyter学习">
 <meta name="twitter:description" content="安装教程安装Anaconda，自带Jupyter
@@ -371,12 +371,15 @@
         <h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2><p>安装<a href="&quot;https://www.continuum.io/downloads&quot;">Anaconda</a>，自带Jupyter</p>
 <h2 id="更改Jupyter工作空间"><a href="#更改Jupyter工作空间" class="headerlink" title="更改Jupyter工作空间"></a>更改Jupyter工作空间</h2><ul>
 <li>在cmd中输入<code>jupyter notebook --generate-config</code>，找到配置文件ipython_notebook_config.py存在的位置</li>
-<li>在其配置文件ipython_notebook_config.py中找到下面两段，加粗部分为更改部分，注意去掉底下一行的注释#（我的在194-195行）<br>  <code>The directory to use for notebooks and kernels.</code><br>  <code>c.NotebookApp.notebook_dir = &#39;**D:\Jupyter**&#39;</code></li>
+<li>在其配置文件ipython_notebook_config.py中找到下面两段，加粗部分为更改部分，注意去掉底下一行的注释#（我的在194-195行）<br>  <code>The directory to use for notebooks and kernels.</code><br>  <code>c.NotebookApp.notebook_dir = &#39;D:\Jupyter&#39;</code></li>
 </ul>
 <h2 id="为Jupyter添加目录功能"><a href="#为Jupyter添加目录功能" class="headerlink" title="为Jupyter添加目录功能"></a>为Jupyter添加目录功能</h2><ul>
 <li>利用Anaconda安装Jupyter Notebook extensions<br>  <code>conda install -c conda-forge jupyter_contrib_nbextensions</code></li>
 <li>打开Jupyter Notebook，在它的（新增的）Nbextensions标签下勾选“Table of Contents(2)”<br><img src="http://i.imgur.com/n4vCvSW.png" alt=""></li>
 </ul>
+<h2 id="Python-3-is-no-longer-available-as-a-kernel-in-Jupyter-Notebook-after-updating-Anaconda"><a href="#Python-3-is-no-longer-available-as-a-kernel-in-Jupyter-Notebook-after-updating-Anaconda" class="headerlink" title="Python 3 is no longer available as a kernel in Jupyter Notebook after updating Anaconda"></a>Python 3 is no longer available as a kernel in Jupyter Notebook after updating Anaconda</h2><pre><code>conda remove nb_conda_kernels
+conda create -n jupyter notebook
+</code></pre><p>问题<a href="&quot;https://groups.google.com/a/continuum.io/forum/#!topic/anaconda/HmQFP70ysuc&quot;">链接</a></p>
 <p>参考文献<br>[1]<a href="&quot;http://blog.csdn.net/tina_ttl/article/details/51031113#21-jupyter的工作空间在哪里指定&quot;">Python·Jupyter Notebook各种使用方法记录·持续更新</a></p>
 
       
@@ -570,7 +573,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#安装教程"><span class="nav-number">1.</span> <span class="nav-text">安装教程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#更改Jupyter工作空间"><span class="nav-number">2.</span> <span class="nav-text">更改Jupyter工作空间</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#为Jupyter添加目录功能"><span class="nav-number">3.</span> <span class="nav-text">为Jupyter添加目录功能</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#安装教程"><span class="nav-number">1.</span> <span class="nav-text">安装教程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#更改Jupyter工作空间"><span class="nav-number">2.</span> <span class="nav-text">更改Jupyter工作空间</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#为Jupyter添加目录功能"><span class="nav-number">3.</span> <span class="nav-text">为Jupyter添加目录功能</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Python-3-is-no-longer-available-as-a-kernel-in-Jupyter-Notebook-after-updating-Anaconda"><span class="nav-number">4.</span> <span class="nav-text">Python 3 is no longer available as a kernel in Jupyter Notebook after updating Anaconda</span></a></li></ol></div>
             
 
           </div>
