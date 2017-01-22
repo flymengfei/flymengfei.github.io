@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengfei.website/"/>
-  <updated>2017-01-21T10:33:10.893Z</updated>
+  <updated>2017-01-22T09:15:28.738Z</updated>
   <id>http://mengfei.website/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jupyter学习</title>
+    <link href="http://mengfei.website/2017/01/22/Jupyter%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://mengfei.website/2017/01/22/Jupyter学习/</id>
+    <published>2017-01-22T09:02:20.191Z</published>
+    <updated>2017-01-22T09:15:28.738Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2><p>安装<a href="&quot;https://www.continuum.io/downloads&quot;">Anaconda</a>，自带Jupyter</p>
+<h2 id="更改Jupyter工作空间"><a href="#更改Jupyter工作空间" class="headerlink" title="更改Jupyter工作空间"></a>更改Jupyter工作空间</h2><ul>
+<li>在cmd中输入<code>jupyter notebook --generate-config</code>，找到配置文件ipython_notebook_config.py存在的位置</li>
+<li>在其配置文件ipython_notebook_config.py中找到下面两段，加粗部分为更改部分，注意去掉底下一行的注释#（我的在194-195行）<br>  The directory to use for notebooks and kernels.<br>  c.NotebookApp.notebook_dir = ‘<strong>D:\Jupyter</strong>‘</li>
+</ul>
+<h2 id="为Jupyter添加目录功能"><a href="#为Jupyter添加目录功能" class="headerlink" title="为Jupyter添加目录功能"></a>为Jupyter添加目录功能</h2><ul>
+<li>利用Anaconda安装Jupyter Notebook extensions<br>  conda install -c conda-forge jupyter_contrib_nbextensions</li>
+<li>打开Jupyter Notebook，在它的（新增的）Nbextensions标签下勾选“Table of Contents(2)”<br><img src="http://i.imgur.com/n4vCvSW.png" alt=""></li>
+</ul>
+<p>参考文献<br>[1]<a href="&quot;http://blog.csdn.net/tina_ttl/article/details/51031113#21-jupyter的工作空间在哪里指定&quot;">Python·Jupyter Notebook各种使用方法记录·持续更新</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;安装教程&quot;&gt;&lt;a href=&quot;#安装教程&quot; class=&quot;headerlink&quot; title=&quot;安装教程&quot;&gt;&lt;/a&gt;安装教程&lt;/h2&gt;&lt;p&gt;安装&lt;a href=&quot;&amp;quot;https://www.continuum.io/downloads&amp;quot;&quot;&gt;Ana
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Win10系统安装</title>
