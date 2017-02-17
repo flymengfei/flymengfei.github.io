@@ -95,7 +95,7 @@
 <meta property="og:description" content="安装教程安装Anaconda，自带Jupyter
 更改Jupyter工作空间1、在cmd中输入：    jupyter notebook --generate-config找到配置文件ipython_notebook_config.py存在的位置2、在其配置文件ipython_notebook_config.py中找到下面两段，加粗部分为更改部分，注意去掉底下一行的注释#（我的在194-195行）">
 <meta property="og:image" content="http://i.imgur.com/n4vCvSW.png">
-<meta property="og:updated_time" content="2017-02-17T09:52:22.670Z">
+<meta property="og:updated_time" content="2017-02-17T09:54:48.063Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Jupyter学习">
 <meta name="twitter:description" content="安装教程安装Anaconda，自带Jupyter
@@ -364,7 +364,7 @@
       
         <h3 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h3><p>安装<a href="&quot;https://www.continuum.io/downloads&quot;">Anaconda</a>，自带Jupyter</p>
 <h3 id="更改Jupyter工作空间"><a href="#更改Jupyter工作空间" class="headerlink" title="更改Jupyter工作空间"></a>更改Jupyter工作空间</h3><p>1、在cmd中输入：<br>    <code>jupyter notebook --generate-config</code><br>找到配置文件ipython_notebook_config.py存在的位置<br>2、在其配置文件ipython_notebook_config.py中找到下面两段，加粗部分为更改部分，注意去掉底下一行的注释#（我的在194-195行）<br>    <code>The directory to use for notebooks and kernels.</code><br>    <code>c.NotebookApp.notebook_dir = &#39;D:\Jupyter&#39;</code></p>
-<h3 id="为Jupyter添加目录功能"><a href="#为Jupyter添加目录功能" class="headerlink" title="为Jupyter添加目录功能"></a>为Jupyter添加目录功能</h3><p>1、利用Anaconda安装Jupyter Notebook extensions<br>    <code>conda install -c conda-forge jupyter_contrib_nbextensions</code><br>2、打开Jupyter Notebook，在它的（新增的）Nbextensions标签下勾选“Table of Contents(2)”<br><img src="http://i.imgur.com/n4vCvSW.png" alt=""><br>3、Python 3 is no longer available as a kernel in Jupyter Notebook after updating Anaconda<br>    conda remove nb_conda_kernels<br>    conda create -n jupyter notebook<br><a href="&quot;https://groups.google.com/a/continuum.io/forum/#!topic/anaconda/HmQFP70ysuc&quot;">问题链接</a></p>
+<h3 id="为Jupyter添加目录功能"><a href="#为Jupyter添加目录功能" class="headerlink" title="为Jupyter添加目录功能"></a>为Jupyter添加目录功能</h3><p>1、利用Anaconda安装Jupyter Notebook extensions<br>    <code>conda install -c conda-forge jupyter_contrib_nbextensions</code><br>2、打开Jupyter Notebook，在它的（新增的）Nbextensions标签下勾选“Table of Contents(2)”<br><img src="http://i.imgur.com/n4vCvSW.png" alt=""><br>3、Python 3 is no longer available as a kernel in Jupyter Notebook after updating Anaconda<br>    <code>conda remove nb_conda_kernels</code><br>    <code>conda create -n jupyter notebook</code><br>问题<a href="&quot;https://groups.google.com/a/continuum.io/forum/#!topic/anaconda/HmQFP70ysuc&quot;">链接</a></p>
 <p>参考文献<br>[1]<a href="&quot;http://blog.csdn.net/tina_ttl/article/details/51031113#21-jupyter的工作空间在哪里指定&quot;">Python·Jupyter Notebook各种使用方法记录·持续更新</a></p>
 
       
