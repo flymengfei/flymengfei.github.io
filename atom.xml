@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengfei.website/"/>
-  <updated>2017-02-17T09:54:48.063Z</updated>
+  <updated>2017-02-18T07:58:14.403Z</updated>
   <id>http://mengfei.website/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2.20-26学习周计划</title>
+    <link href="http://mengfei.website/2017/02/18/2.20-26%E5%AD%A6%E4%B9%A0%E5%91%A8%E8%AE%A1%E5%88%92/"/>
+    <id>http://mengfei.website/2017/02/18/2.20-26学习周计划/</id>
+    <published>2017-02-18T07:58:14.232Z</published>
+    <updated>2017-02-18T07:58:14.403Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Mysql数据库"><a href="#Mysql数据库" class="headerlink" title="Mysql数据库"></a>Mysql数据库</h3><h4 id="Navicat-for-Mysql"><a href="#Navicat-for-Mysql" class="headerlink" title="Navicat for Mysql"></a>Navicat for Mysql</h4><p>1、<a href="&quot;http://www.jianshu.com/p/b1f9194e1e31">Navicat11注册机</a><br>2、<a href="&quot;https://www.navicat.com/products/navicat-for-mysql&quot;">Navicat官网文档</a></p>
+<h4 id="SQL语句"><a href="#SQL语句" class="headerlink" title="SQL语句"></a>SQL语句</h4><p>1、<a href="&quot;http://www.runoob.com/sql/sql-tutorial.html&quot;">菜鸟教程SQL</a><br>2、SQL基础教程（书籍）</p>
+<h4 id="Mysql"><a href="#Mysql" class="headerlink" title="Mysql"></a>Mysql</h4><p>1、<a href="&quot;https://www.mysql.com/products/enterprise/&quot;">Mysql官网文档</a><br>2、<a href="&quot;http://www.runoob.com/mysql/mysql-tutorial.html&quot;">菜鸟教程Mysql</a><br>3、Mysql必知必会（书籍）</p>
+<h3 id="Python和R"><a href="#Python和R" class="headerlink" title="Python和R"></a>Python和R</h3><h4 id="数据挖掘"><a href="#数据挖掘" class="headerlink" title="数据挖掘"></a>数据挖掘</h4><p>在数据库中发现先前未知的有用模式，预测未来观测结果。<br>1、数据挖掘导论（书籍）<br>2、数据挖掘技术（书籍）<br>掌握理论知识，死记硬背，熟悉专业术语。</p>
+<h4 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h4><p>1、利用Python进行数据分析（书籍）<br>2、Python编程快速上手（书籍）<br>3、了解和使用Jupyter notebook<br>书中的代码进行傻瓜式练习，暂时无需理解。</p>
+<h4 id="R"><a href="#R" class="headerlink" title="R"></a>R</h4><p>1、R语言实战（书籍）<br>2、机器学习与R语言（书籍）<br>3、了解和使用shiny<br>重点掌握交shiny和理论知识。</p>
+<h3 id="统计学"><a href="#统计学" class="headerlink" title="统计学"></a>统计学</h3><h4 id="理论知识"><a href="#理论知识" class="headerlink" title="理论知识"></a>理论知识</h4><p>掌握相关统计模型及算法，如决策树、随机森林、逻辑回归等<br>1、商务与经济统计（书籍）<br>2、机器学习（书籍 周志华）<br>死记硬背，掌握专有名词含义。</p>
+<h4 id="用户画像"><a href="#用户画像" class="headerlink" title="用户画像"></a>用户画像</h4><p>根据用户社会属性、生活习惯和消费行为等信息抽象出的一个标签化的用户模型。尝试做一个案例或者学习一个案例。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Mysql数据库&quot;&gt;&lt;a href=&quot;#Mysql数据库&quot; class=&quot;headerlink&quot; title=&quot;Mysql数据库&quot;&gt;&lt;/a&gt;Mysql数据库&lt;/h3&gt;&lt;h4 id=&quot;Navicat-for-Mysql&quot;&gt;&lt;a href=&quot;#Navicat-for-
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Jupyter学习</title>
